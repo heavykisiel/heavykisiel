@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/nikolas99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikolas99" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nikodem-luto-835b4b20a/)" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" alt="nikolas99" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikodem-luto-835b4b20a/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" alt="nikolas99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Frontend:</h3>
