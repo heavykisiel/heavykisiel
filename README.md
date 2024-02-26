@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Nikodem Luto</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">Jack-of-All-Trades</h3>
+- ⚡ Im very interested to learn about technologies and everyday I set and fulfill my goals. Sometimes it's taking time, but I make my jobs done. Always striving to be best possible version of myself.
+
+- 🫀 To make myself be able to acomplish whatever I want, I deeply care about my mental 🧠 and phisical health.
+- 🫁 I run on my local forest, do so workout with dumbells 💪, after that give myself a cold shower and meditate to empty mind from excessive thougthts.
+
+- ☀️ On daily basis I work on arch linux 🐧, often create software that would help me work in future ⌨️.
 
 - 🌱 I’m currently learning **webGL**
 
@@ -37,3 +43,7 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png" alt="rust" width="40" height="40"/> </a>  </p>
 
+<h3 align="left">My IT Career:</h3>
+ <p>BeOne sp. Z.O.O </p>
+ <p>2021 - 2022</p>
+ <p>intern, tech support, java, javascript, API, testing, bug fixing</p>
