@@ -46,6 +46,6 @@
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png" alt="rust" width="40" height="40"/> </a>  </p>
 
 <h3 align="left">My IT Career:</h3>
- <p>BeOne sp. Z.O.O </p>
- <p>2021 - 2022</p>
- <p>intern, tech support, java, javascript, API, testing, bug fixing</p>
+<a href="https://beone.pl/" target="_blank" rel="noreferrer"> <img src="https://beone.pl/wp-content/uploads/2022/09/logo.png" alt="beone" width="120" height="30"/> </a>
+ <p><b>BeOne sp. Z.O.O</b> June 2021 - May 2022</p>
+ <p>Tasks: intern, tech support, java, javascript, API, testing, bug fixing</p>
