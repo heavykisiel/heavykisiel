@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Nikodem Luto</h1>
 <h3 align="center">Jack-of-All-Trades</h3>
-- ⚡ Im very interested to learn about technologies and everyday I set and fulfill my goals. Sometimes it's taking time, but I make my jobs done. Always striving to be best possible version of myself.
+ - ⚡ Im very interested to learn about technologies and everyday I set and fulfill my goals. Sometimes it's taking time, but I make my jobs done. Always striving to be best possible version of myself.
 
-- 🫀 To make myself be able to acomplish whatever I want, I deeply care about my mental 🧠 and phisical health.
-- 🫁 I run on my local forest, do so workout with dumbells 💪, after that give myself a cold shower and meditate to empty mind from excessive thougthts.
+ - 🫀 To make myself be able to acomplish whatever I want, I deeply care about my mental 🧠 and phisical health.
+ - 🫁 I run on my local forest, do so workout with dumbells 💪, after that give myself a cold shower and meditate to empty mind from excessive thougthts.
 
-- ☀️ On daily basis I work on arch linux 🐧, often create software that would help me work in future ⌨️.
+ - ☀️ On daily basis I work on arch linux 🐧, often create software that would help me work in future ⌨️.
 
-- 🌱 I’m currently learning **webGL**
+ - 🌱 I’m currently learning **webGL**
 
-- 📫 How to reach me **nikolas99@wp.pl**
+ - 📫 How to reach me **nikolas99@wp.pl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
