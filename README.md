@@ -9,7 +9,7 @@
 
  - ☀️ On daily basis I work on arch linux 🐧, often create software that would help me work in future ⌨️.
 
- - 🌱 I’m currently learning **webGL**
+ - 🌱 I’m currently learning **Rust**
 
  - 📫 How to reach me **nikolas99@wp.pl**
 
